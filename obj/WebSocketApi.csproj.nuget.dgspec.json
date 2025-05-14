@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj": {}
+    "C:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj": {
+    "C:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj",
+        "projectUniqueName": "C:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj",
         "projectName": "WebSocketApi",
-        "projectPath": "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj",
+        "projectPath": "C:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj",
         "packagesPath": "C:\\Users\\tks_2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\obj\\",
+        "outputPath": "C:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tks_2\\AppData\\Roaming\\NuGet\\NuGet.Config"

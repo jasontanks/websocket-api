@@ -34,3 +34,4 @@ C:\Users\tks_2\OneDrive\Desktop\c#\WebSocketApi\obj\Debug\net8.0\refint\WebSocke
 C:\Users\tks_2\OneDrive\Desktop\c#\WebSocketApi\obj\Debug\net8.0\WebSocketApi.pdb
 C:\Users\tks_2\OneDrive\Desktop\c#\WebSocketApi\obj\Debug\net8.0\WebSocketApi.genruntimeconfig.cache
 C:\Users\tks_2\OneDrive\Desktop\c#\WebSocketApi\obj\Debug\net8.0\ref\WebSocketApi.dll
+C:\Users\tks_2\OneDrive\Desktop\c#\WebSocketApi\obj\Debug\net8.0\WebSocketApi.sourcelink.json
