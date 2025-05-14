@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "REkwyOFqnmE=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tks_2\\OneDrive\\Desktop\\c#\\WebSocketApi\\WebSocketApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.15\\microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.aspnetcore.websockets\\2.3.0\\microsoft.aspnetcore.websockets.2.3.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.net.http.headers\\2.3.0\\microsoft.net.http.headers.2.3.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\system.net.websockets.websocketprotocol\\5.1.0\\system.net.websockets.websocketprotocol.5.1.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\tks_2\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
